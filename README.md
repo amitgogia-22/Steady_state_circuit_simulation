@@ -188,8 +188,6 @@ ie (element currents): 0, 2, -2, -2
 steady-state-circuit-simulation/
 │
 ├── circuit_simulation.cpp    # Main modular C++ source code
-├── report/
-│   └── 21115013_AMIT_GOGIA_P1.pdf   # Original project report
 └── README.md
 ```
 
