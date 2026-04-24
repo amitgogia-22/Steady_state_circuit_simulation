@@ -189,6 +189,11 @@ steady-state-circuit-simulation/
 │
 ├── circuit_simulation.cpp    # Main modular C++ source code
 └── README.md
+└── test_cases
+              └── testcase_1.txt
+              └── testcase2.txt
+              └── test_cases_diagrams.png
+  
 ```
 
 ---
